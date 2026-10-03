@@ -30,7 +30,8 @@ OUT_PATH = os.environ.get("OUT_PATH", "assets/profile.svg")
 # Field list shown on the right, neofetch-style.
 # ---------------------------------------------------------------------------
 PROFILE_FIELDS = [
-    ("Role", "full-stack developer & founder @ sybtech"),
+    ("Role", "co-founder @ barq 360"),
+    ("Website", "barq360.ae"),
     ("Focus", "ai agents, whatsapp automation, crm systems"),
     ("Stack.Frontend", "react, next.js, flutter, tailwind"),
     ("Stack.Backend", "python, flask, fastapi, node.js"),
@@ -56,7 +57,7 @@ PALETTE = ["#0b1120", "#e8384f", "#3ddc84", "#ffd166", "#4d8cff",
 
 PROMPT_COMMANDS = [
     "full-stack developer",
-    "building ai agents",
+    "co-founder @ barq 360",
     "whatsapp automation",
 ]
 PROMPT_TYPE_SPEED = 0.08

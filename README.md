@@ -6,9 +6,9 @@
 
 # 👋 Hi, I'm Hussein Hesham
 
-### 🚀 Full-Stack Developer | Flutter & React Expert | Founder @ SybTech
+### 🚀 Co-Founder @ [Barq 360](https://barq360.ae) | Full-Stack & AI Engineer
 
-**Building intelligent, scalable software solutions for real estate, logistics & AI automation.**
+**Building AI-powered CRMs and WhatsApp sales agents for businesses in the UAE.**
 
 📍 Based in Abu Dhabi, UAE | 🌍 Available for Remote Work Worldwide
 
@@ -62,52 +62,24 @@ I build **production-ready, enterprise-grade applications** that solve real busi
 
 ## 🚀 Featured Projects
 
+### ⚡ [Barq 360](https://barq360.ae) — AI CRM + WhatsApp Sales Agent
+> My company's flagship product. A bilingual (Arabic/English) CRM with an **AI WhatsApp agent that replies to every lead in seconds, 24/7** — qualifies them, books meetings and logs everything. Plus an **AI operations assistant** the team talks to on WhatsApp: create leads, log calls (text or voice), generate contracts, quotes & invoices as PDF, daily reports, email outreach and payment follow-ups.
+
+**Tech:** Flask · PostgreSQL · React + Ant Design Pro · WhatsApp Cloud API · OpenAI · Docker
+
+---
+
+### 🎮 Lead Hunter — Gamified Real-Estate CRM *(private — client work)*
+> A sales CRM that turns calls, WhatsApp messages, meetings and deals into an RPG — XP, levels, quests, leaderboards, competitions and a **3D open-world city** built with Three.js. Real-estate team of 15+ agents handling 10,000+ leads.
+
+**Tech:** Flask · PostgreSQL RPCs · PostgREST · Supabase Auth · Three.js · PWA
+
+---
+
 ### 📸 [Headshot Studio](https://github.com/heshamhussin961-design/headshot-studio)
 > Turn any selfie into a **professional studio headshot** in ~30 seconds — identity-preserving AI, 4 looks, no sign-up, one-click Vercel deploy.
 
 **Tech:** Next.js · TypeScript · OpenAI Image API
-
----
-
-### 🤖 SybTech WhatsApp AI Bot *(private — client work)*
-> Enterprise-grade WhatsApp AI Sales Bot with **16 advanced features** — lead scoring, multi-language (AR/EN/HI/UR), sentiment analysis, calendar booking, and analytics dashboard.
-
-**Tech:** Node.js · MongoDB · AI · WhatsApp API
-
----
-
-### 📦 [Masar Logistics System](https://github.com/heshamhussin961-design/Masar-Logistics-System)
-> High-performance logistics & shipment management platform with **real-time GPS tracking** using PostGIS, plus a Flutter mobile app for drivers.
-
-**Tech:** Flask · PostgreSQL + PostGIS · Flutter · GeoAlchemy2
-
----
-
-### ⚖️ [Al Wissam Legal Translation](https://github.com/heshamhussin961-design/alwissam-translate)
-> Enterprise-grade PWA for a UAE-certified legal translation agency with bilingual support, order tracking, and conversion-optimized UI.
-
-**Tech:** HTML5 · Tailwind · PWA · JSON-LD SEO
-
----
-
-### 💼 [DevCRM — Real Estate CRM](https://github.com/heshamhussin961-design/devcrm)
-> Modern bilingual CRM for real estate with pipeline boards, property matching, and team collaboration.
-
-**Tech:** React 18 · TypeScript · Vite · Tailwind · Radix UI
-
----
-
-### 🏠 [Elite Estates](https://github.com/heshamhussin961-design/real-estate-app)
-> Luxury real estate platform with **360° VR tours** and a **bilingual AI chatbot**.
-
-**Tech:** Flask · Python · Pannellum · Google Maps
-
----
-
-### 🌳 [Family Tree](https://github.com/heshamhussin961-design/family-tree)
-> Full-stack family tree application with secure authentication and **auto-deployment** via GitHub Actions.
-
-**Tech:** FastAPI · React · Vite · PostgreSQL · CI/CD
 
 ---
 
@@ -138,7 +110,7 @@ I build **production-ready, enterprise-grade applications** that solve real busi
 I'm currently **available for freelance projects** and open to collaborations. Whether you need a WhatsApp bot, a mobile app, or a custom web platform — let's talk!
 
 📧 **Email:** hussein@sybtech.com  
-🏢 **Company:** [SybTech](https://github.com/heshamhussin961-design/sybtech-website) — AI Agents, WhatsApp Automation & Web Development  
+🏢 **Company:** [Barq 360](https://barq360.ae) — AI CRM, WhatsApp AI Agents & Digital Marketing  
 📍 **Location:** Abu Dhabi, UAE
 
 ---
