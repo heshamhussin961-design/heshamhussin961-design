@@ -109,7 +109,7 @@ I build **production-ready, enterprise-grade applications** that solve real busi
 
 I'm currently **available for freelance projects** and open to collaborations. Whether you need a WhatsApp bot, a mobile app, or a custom web platform — let's talk!
 
-📧 **Email:** hussein@sybtech.com  
+📧 **Email:** Office@barq360.ae  
 🏢 **Company:** [Barq 360](https://barq360.ae) — AI CRM, WhatsApp AI Agents & Digital Marketing  
 📍 **Location:** Abu Dhabi, UAE
 
