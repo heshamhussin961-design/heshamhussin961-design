@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heshamhussin961-design/heshamhussin961-design/refs/heads/main/assets/profile.svg" alt="Hussein Hesham — animated terminal profile card" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Hussein Hesham
@@ -58,7 +62,14 @@ I build **production-ready, enterprise-grade applications** that solve real busi
 
 ## 🚀 Featured Projects
 
-### 🤖 [SybTech WhatsApp AI Bot](https://github.com/heshamhussin961-design/[REPO-NAME])
+### 📸 [Headshot Studio](https://github.com/heshamhussin961-design/headshot-studio)
+> Turn any selfie into a **professional studio headshot** in ~30 seconds — identity-preserving AI, 4 looks, no sign-up, one-click Vercel deploy.
+
+**Tech:** Next.js · TypeScript · OpenAI Image API
+
+---
+
+### 🤖 SybTech WhatsApp AI Bot *(private — client work)*
 > Enterprise-grade WhatsApp AI Sales Bot with **16 advanced features** — lead scoring, multi-language (AR/EN/HI/UR), sentiment analysis, calendar booking, and analytics dashboard.
 
 **Tech:** Node.js · MongoDB · AI · WhatsApp API
@@ -139,3 +150,5 @@ I'm currently **available for freelance projects** and open to collaborations. W
 ![Profile Views](https://komarev.com/ghpvc/?username=heshamhussin961-design&color=blueviolet&style=flat)
 
 </div>
+
+<sub>Terminal card generated with <a href="https://github.com/pangeran-droid/ascii-profile-card">ascii-profile-card</a> (MIT).</sub>
