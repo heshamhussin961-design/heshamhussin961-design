@@ -1,4 +1,4 @@
-<svg width="893" height="652" viewBox="0 0 893 652" xmlns="http://www.w3.org/2000/svg">
+<svg width="893" height="674" viewBox="0 0 893 674" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .art { font-family: 'Courier New', monospace; font-size: 12.3px; fill: #5dc9f2; white-space: pre; }
@@ -11,14 +11,14 @@
       .titletext { font-family: 'Courier New', monospace; font-size: 13px; fill: #7f8aa6; }
       .promptcmd { font-family: 'Courier New', monospace; font-size: 15px; fill: #5dc9f2; white-space: pre; }
       .promptcursor { fill: #5dc9f2; }
-      @keyframes promptClip0 { 0.0% { width: 0.0px; animation-timing-function: steps(20, jump-end); } 13.763% { width: 180.0px; animation-timing-function: steps(1, jump-end); } 23.226% { width: 180.0px; animation-timing-function: steps(20, jump-end); } 30.968% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
-      @keyframes promptClip1 { 0% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 34.409% { width: 0.0px; animation-timing-function: steps(18, jump-end); } 46.796% { width: 162.0px; animation-timing-function: steps(1, jump-end); } 56.258% { width: 162.0px; animation-timing-function: steps(18, jump-end); } 63.226% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
-      @keyframes promptClip2 { 0% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 66.667% { width: 0.0px; animation-timing-function: steps(19, jump-end); } 79.742% { width: 171.0px; animation-timing-function: steps(1, jump-end); } 89.204% { width: 171.0px; animation-timing-function: steps(19, jump-end); } 96.559% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
-      .promptClipRect0 { animation: promptClip0 11.625s infinite; }
-.promptClipRect1 { animation: promptClip1 11.625s infinite; }
-.promptClipRect2 { animation: promptClip2 11.625s infinite; }
-      @keyframes promptCursorMove { 0.0% { transform: translateX(0.0px); animation-timing-function: steps(20, jump-end); } 13.763% { transform: translateX(180.0px); animation-timing-function: steps(1, jump-end); } 23.226% { transform: translateX(180.0px); animation-timing-function: steps(20, jump-end); } 30.968% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 100% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 0% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 34.409% { transform: translateX(0.0px); animation-timing-function: steps(18, jump-end); } 46.796% { transform: translateX(162.0px); animation-timing-function: steps(1, jump-end); } 56.258% { transform: translateX(162.0px); animation-timing-function: steps(18, jump-end); } 63.226% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 100% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 0% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 66.667% { transform: translateX(0.0px); animation-timing-function: steps(19, jump-end); } 79.742% { transform: translateX(171.0px); animation-timing-function: steps(1, jump-end); } 89.204% { transform: translateX(171.0px); animation-timing-function: steps(19, jump-end); } 96.559% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 100% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } }
-      .promptcursor { animation: promptCursorMove 11.625s infinite, blink 1s steps(1) infinite; }
+      @keyframes promptClip0 { 0.0% { width: 0.0px; animation-timing-function: steps(20, jump-end); } 13.333% { width: 180.0px; animation-timing-function: steps(1, jump-end); } 22.5% { width: 180.0px; animation-timing-function: steps(20, jump-end); } 30.0% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
+      @keyframes promptClip1 { 0% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 33.333% { width: 0.0px; animation-timing-function: steps(21, jump-end); } 47.333% { width: 189.0px; animation-timing-function: steps(1, jump-end); } 56.5% { width: 189.0px; animation-timing-function: steps(21, jump-end); } 64.375% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
+      @keyframes promptClip2 { 0% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 67.708% { width: 0.0px; animation-timing-function: steps(19, jump-end); } 80.375% { width: 171.0px; animation-timing-function: steps(1, jump-end); } 89.542% { width: 171.0px; animation-timing-function: steps(19, jump-end); } 96.667% { width: 0.0px; animation-timing-function: steps(1, jump-end); } 100% { width: 0.0px; animation-timing-function: steps(1, jump-end); } }
+      .promptClipRect0 { animation: promptClip0 12.000s infinite; }
+.promptClipRect1 { animation: promptClip1 12.000s infinite; }
+.promptClipRect2 { animation: promptClip2 12.000s infinite; }
+      @keyframes promptCursorMove { 0.0% { transform: translateX(0.0px); animation-timing-function: steps(20, jump-end); } 13.333% { transform: translateX(180.0px); animation-timing-function: steps(1, jump-end); } 22.5% { transform: translateX(180.0px); animation-timing-function: steps(20, jump-end); } 30.0% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 100% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 0% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 33.333% { transform: translateX(0.0px); animation-timing-function: steps(21, jump-end); } 47.333% { transform: translateX(189.0px); animation-timing-function: steps(1, jump-end); } 56.5% { transform: translateX(189.0px); animation-timing-function: steps(21, jump-end); } 64.375% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 100% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 0% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 67.708% { transform: translateX(0.0px); animation-timing-function: steps(19, jump-end); } 80.375% { transform: translateX(171.0px); animation-timing-function: steps(1, jump-end); } 89.542% { transform: translateX(171.0px); animation-timing-function: steps(19, jump-end); } 96.667% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } 100% { transform: translateX(0.0px); animation-timing-function: steps(1, jump-end); } }
+      .promptcursor { animation: promptCursorMove 12.000s infinite, blink 1s steps(1) infinite; }
       .fadein { animation-name: reveal; animation-duration: 0.35s; animation-fill-mode: forwards; animation-timing-function: steps(1); }
       .typewriter { animation-name: reveal; animation-duration: 0.4s; animation-fill-mode: forwards; animation-timing-function: steps(1); }
       .swatch { animation-name: revealSwatch; animation-duration: 0.35s; animation-fill-mode: forwards; animation-timing-function: steps(1); }
@@ -28,17 +28,17 @@
     </style>
     
       <clipPath id="promptClip0">
-        <rect x="79.0" y="580" width="180.0" height="20" class="promptClipRect0" />
+        <rect x="79.0" y="602" width="180.0" height="20" class="promptClipRect0" />
       </clipPath>
       <clipPath id="promptClip1">
-        <rect x="79.0" y="580" width="162.0" height="20" class="promptClipRect1" />
+        <rect x="79.0" y="602" width="189.0" height="20" class="promptClipRect1" />
       </clipPath>
       <clipPath id="promptClip2">
-        <rect x="79.0" y="580" width="171.0" height="20" class="promptClipRect2" />
+        <rect x="79.0" y="602" width="171.0" height="20" class="promptClipRect2" />
       </clipPath>
   </defs>
   
-  <rect x="0" y="0" width="893" height="652" rx="10" fill="#0b1120" />
+  <rect x="0" y="0" width="893" height="674" rx="10" fill="#0b1120" />
   <path d="M0,10 a10,10 0 0 1 10,-10 h873 a10,10 0 0 1 10,10 v24 h-893 z"
         fill="#141c30" />
   <circle cx="24" cy="17" r="6" fill="#ff5f57" />
@@ -74,37 +74,38 @@
   <text x="416.0" y="94" class="header">heshamhussin961-design@github</text>
   <line x1="416.0" y1="104" x2="792.0" y2="104" class="rule" />
   
-      <text x="416.0" y="134" class="fieldline typewriter" style="animation-delay:0.50s"><tspan class="label">Role:</tspan> <tspan class="value">full-stack developer &amp; founder @ sybtech</tspan></text>
-      <text x="416.0" y="156" class="fieldline typewriter" style="animation-delay:0.56s"><tspan class="label">Focus:</tspan> <tspan class="value">ai agents, whatsapp automation, crm systems</tspan></text>
-      <text x="416.0" y="178" class="fieldline typewriter" style="animation-delay:0.62s"><tspan class="label">Stack.Frontend:</tspan> <tspan class="value">react, next.js, flutter, tailwind</tspan></text>
-      <text x="416.0" y="200" class="fieldline typewriter" style="animation-delay:0.68s"><tspan class="label">Stack.Backend:</tspan> <tspan class="value">python, flask, fastapi, node.js</tspan></text>
-      <text x="416.0" y="222" class="fieldline typewriter" style="animation-delay:0.74s"><tspan class="label">Stack.Database:</tspan> <tspan class="value">postgresql, postgis, supabase, mongodb</tspan></text>
-      <text x="416.0" y="244" class="fieldline typewriter" style="animation-delay:0.80s"><tspan class="label">Stack.AI:</tspan> <tspan class="value">llm agents, openai, claude, rag</tspan></text>
-      <text x="416.0" y="266" class="fieldline typewriter" style="animation-delay:0.86s"><tspan class="label">Stack.Security:</tspan> <tspan class="value">recon &amp; defensive tooling</tspan></text>
-      <text x="416.0" y="288" class="fieldline typewriter" style="animation-delay:0.92s"><tspan class="label">Environment:</tspan> <tspan class="value">linux, docker, git, vscode</tspan></text>
-      <text x="416.0" y="310" class="fieldline typewriter" style="animation-delay:0.98s"><tspan class="label">Location:</tspan> <tspan class="value">abu dhabi, uae</tspan></text>
-      <text x="416.0" y="332" class="fieldline typewriter" style="animation-delay:1.04s"><tspan class="label">Contact.GitHub:</tspan> <tspan class="value">github.com/heshamhussin961-design</tspan></text>
-      <text x="416.0" y="354" class="fieldline typewriter" style="animation-delay:1.10s"><tspan class="label">Contact.WhatsApp:</tspan> <tspan class="value">wa.me/971555377823</tspan></text>
-      <text x="416.0" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">GitHub.Repos:</tspan> <tspan class="value">35</tspan></text>
-      <text x="416.0" y="398" class="fieldline typewriter" style="animation-delay:1.22s"><tspan class="label">GitHub.Stars:</tspan> <tspan class="value">2</tspan></text>
-      <text x="416.0" y="420" class="fieldline typewriter" style="animation-delay:1.28s"><tspan class="label">GitHub.Followers:</tspan> <tspan class="value">0</tspan></text>
-      <text x="416.0" y="442" class="fieldline typewriter" style="animation-delay:1.34s"><tspan class="label">GitHub.Languages:</tspan> <tspan class="value">Python, HTML, TypeScript, JavaScript</tspan></text>
-      <text x="416.0" y="464" class="fieldline typewriter" style="animation-delay:1.40s"><tspan class="label">GitHub.Contributions:</tspan> <tspan class="value">171</tspan></text>
+      <text x="416.0" y="134" class="fieldline typewriter" style="animation-delay:0.50s"><tspan class="label">Role:</tspan> <tspan class="value">co-founder @ barq 360</tspan></text>
+      <text x="416.0" y="156" class="fieldline typewriter" style="animation-delay:0.56s"><tspan class="label">Website:</tspan> <tspan class="value">barq360.ae</tspan></text>
+      <text x="416.0" y="178" class="fieldline typewriter" style="animation-delay:0.62s"><tspan class="label">Focus:</tspan> <tspan class="value">ai agents, whatsapp automation, crm systems</tspan></text>
+      <text x="416.0" y="200" class="fieldline typewriter" style="animation-delay:0.68s"><tspan class="label">Stack.Frontend:</tspan> <tspan class="value">react, next.js, flutter, tailwind</tspan></text>
+      <text x="416.0" y="222" class="fieldline typewriter" style="animation-delay:0.74s"><tspan class="label">Stack.Backend:</tspan> <tspan class="value">python, flask, fastapi, node.js</tspan></text>
+      <text x="416.0" y="244" class="fieldline typewriter" style="animation-delay:0.80s"><tspan class="label">Stack.Database:</tspan> <tspan class="value">postgresql, postgis, supabase, mongodb</tspan></text>
+      <text x="416.0" y="266" class="fieldline typewriter" style="animation-delay:0.86s"><tspan class="label">Stack.AI:</tspan> <tspan class="value">llm agents, openai, claude, rag</tspan></text>
+      <text x="416.0" y="288" class="fieldline typewriter" style="animation-delay:0.92s"><tspan class="label">Stack.Security:</tspan> <tspan class="value">recon &amp; defensive tooling</tspan></text>
+      <text x="416.0" y="310" class="fieldline typewriter" style="animation-delay:0.98s"><tspan class="label">Environment:</tspan> <tspan class="value">linux, docker, git, vscode</tspan></text>
+      <text x="416.0" y="332" class="fieldline typewriter" style="animation-delay:1.04s"><tspan class="label">Location:</tspan> <tspan class="value">abu dhabi, uae</tspan></text>
+      <text x="416.0" y="354" class="fieldline typewriter" style="animation-delay:1.10s"><tspan class="label">Contact.GitHub:</tspan> <tspan class="value">github.com/heshamhussin961-design</tspan></text>
+      <text x="416.0" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">Contact.WhatsApp:</tspan> <tspan class="value">wa.me/971555377823</tspan></text>
+      <text x="416.0" y="398" class="fieldline typewriter" style="animation-delay:1.22s"><tspan class="label">GitHub.Repos:</tspan> <tspan class="value">35</tspan></text>
+      <text x="416.0" y="420" class="fieldline typewriter" style="animation-delay:1.28s"><tspan class="label">GitHub.Stars:</tspan> <tspan class="value">2</tspan></text>
+      <text x="416.0" y="442" class="fieldline typewriter" style="animation-delay:1.34s"><tspan class="label">GitHub.Followers:</tspan> <tspan class="value">0</tspan></text>
+      <text x="416.0" y="464" class="fieldline typewriter" style="animation-delay:1.40s"><tspan class="label">GitHub.Languages:</tspan> <tspan class="value">Python, HTML, TypeScript, JavaScript</tspan></text>
+      <text x="416.0" y="486" class="fieldline typewriter" style="animation-delay:1.46s"><tspan class="label">GitHub.Contributions:</tspan> <tspan class="value">172</tspan></text>
   
-      <rect x="416.0" y="500.0" width="20" height="20" rx="3" fill="#0b1120" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.46s" />
-      <rect x="444.0" y="500.0" width="20" height="20" rx="3" fill="#e8384f" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.51s" />
-      <rect x="472.0" y="500.0" width="20" height="20" rx="3" fill="#3ddc84" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.56s" />
-      <rect x="500.0" y="500.0" width="20" height="20" rx="3" fill="#ffd166" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.61s" />
-      <rect x="528.0" y="500.0" width="20" height="20" rx="3" fill="#4d8cff" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.66s" />
-      <rect x="556.0" y="500.0" width="20" height="20" rx="3" fill="#b16cff" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.71s" />
-      <rect x="584.0" y="500.0" width="20" height="20" rx="3" fill="#39e0d0" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.76s" />
-      <rect x="612.0" y="500.0" width="20" height="20" rx="3" fill="#e8e8e8" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.81s" />
+      <rect x="416.0" y="522.0" width="20" height="20" rx="3" fill="#0b1120" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.52s" />
+      <rect x="444.0" y="522.0" width="20" height="20" rx="3" fill="#e8384f" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.57s" />
+      <rect x="472.0" y="522.0" width="20" height="20" rx="3" fill="#3ddc84" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.62s" />
+      <rect x="500.0" y="522.0" width="20" height="20" rx="3" fill="#ffd166" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.67s" />
+      <rect x="528.0" y="522.0" width="20" height="20" rx="3" fill="#4d8cff" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.72s" />
+      <rect x="556.0" y="522.0" width="20" height="20" rx="3" fill="#b16cff" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.77s" />
+      <rect x="584.0" y="522.0" width="20" height="20" rx="3" fill="#39e0d0" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.82s" />
+      <rect x="612.0" y="522.0" width="20" height="20" rx="3" fill="#e8e8e8" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.87s" />
 
-  <text x="34" y="570" class="prompt">┌──(heshamhussin961-design@github-[~]</text>
-  <text x="34" y="594" class="prompt">└─$ </text>
+  <text x="34" y="592" class="prompt">┌──(heshamhussin961-design@github-[~]</text>
+  <text x="34" y="616" class="prompt">└─$ </text>
   
-      <text x="79.0" y="594" class="promptcmd" clip-path="url(#promptClip0)" textLength="180.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">full-stack developer</text>
-      <text x="79.0" y="594" class="promptcmd" clip-path="url(#promptClip1)" textLength="162.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">building ai agents</text>
-      <text x="79.0" y="594" class="promptcmd" clip-path="url(#promptClip2)" textLength="171.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">whatsapp automation</text>
-  <rect x="79.0" y="580.0" width="8" height="16" class="promptcursor" />
+      <text x="79.0" y="616" class="promptcmd" clip-path="url(#promptClip0)" textLength="180.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">full-stack developer</text>
+      <text x="79.0" y="616" class="promptcmd" clip-path="url(#promptClip1)" textLength="189.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">co-founder @ barq 360</text>
+      <text x="79.0" y="616" class="promptcmd" clip-path="url(#promptClip2)" textLength="171.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">whatsapp automation</text>
+  <rect x="79.0" y="602.0" width="8" height="16" class="promptcursor" />
 </svg>
