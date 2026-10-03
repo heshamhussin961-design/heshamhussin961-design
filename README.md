@@ -26,9 +26,12 @@
 
 A bilingual CRM where an **AI agent replies to every WhatsApp lead in seconds, 24/7**, qualifies them and books the meeting. The team runs the business from WhatsApp too — an AI assistant creates leads, logs calls from voice notes, drafts contracts, quotes and invoices as PDF, and sends the daily report.
 
-<p align="center">
-  <img src="assets/shots/barq-dashboard.jpg" width="88%" alt="Barq 360 CRM dashboard">
-</p>
+<table>
+  <tr>
+    <td width="34%" valign="top"><img src="assets/shots/agent-demo.gif" alt="AI WhatsApp agent replying to a lead in seconds"></td>
+    <td width="66%" valign="top"><img src="assets/shots/barq-dashboard.jpg" alt="Barq 360 CRM dashboard"></td>
+  </tr>
+</table>
 
 <sub>Flask · PostgreSQL · React + Ant Design Pro · WhatsApp Cloud API · OpenAI · Docker</sub>
 
